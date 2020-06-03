@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    elasticsearch:
+      cluster-name: sunny-application
+      cluster-nodes: 127.0.0.1:9301,127.0.0.1:9302,127.0.0.1:9303

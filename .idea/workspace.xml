@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9dc28a6-e1a1-4c9c-a9db-2ea42b21d8b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpjeq6xcr4rvl1jncImsIo4UkX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springdata-elasticsearch" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.35402298" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.ElasticSearchClientTest.queryForQueryString">
+    <configuration name="ElasticSearchClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunny.practice.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunny.practice.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sunny.practice.es.test.ElasticSearchClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchClientTest.insertDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunny.practice.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunny.practice.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sunny.practice.es.test.ElasticSearchClientTest" />
+      <option name="METHOD_NAME" value="insertDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchClientTest.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunny.practice.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunny.practice.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sunny.practice.es.test.ElasticSearchClientTest" />
+      <option name="METHOD_NAME" value="queryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchClientTest.queryForQueryString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunny.practice.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunny.practice.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sunny.practice.es.test.ElasticSearchClientTest" />
+      <option name="METHOD_NAME" value="queryForQueryString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchClientTest.queryForTerm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunny.practice.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunny.practice.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sunny.practice.es.test.ElasticSearchClientTest" />
+      <option name="METHOD_NAME" value="queryForTerm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElasticSearchClientTest.queryForQueryString" />
+        <item itemvalue="JUnit.ElasticSearchClientTest" />
+        <item itemvalue="JUnit.ElasticSearchClientTest.insertDocument" />
+        <item itemvalue="JUnit.ElasticSearchClientTest.queryForTerm" />
+        <item itemvalue="JUnit.ElasticSearchClientTest.queryById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9dc28a6-e1a1-4c9c-a9db-2ea42b21d8b9" name="Default Changelist" comment="" />
+      <created>1589336026955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589336026955</updated>
+      <workItem from="1589336028252" duration="13203000" />
+      <workItem from="1589869101605" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="94" key="#Project_Structure" timestamp="1589336234401">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589336234401" />
+    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1589869130239">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589869130239" />
+    <state width="1877" height="149" key="GridCell.Tab.0.bottom" timestamp="1589353445155">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589353445155" />
+    <state width="1877" height="149" key="GridCell.Tab.0.center" timestamp="1589353445155">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589353445155" />
+    <state width="1877" height="149" key="GridCell.Tab.0.left" timestamp="1589353445154">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589353445154" />
+    <state width="1877" height="149" key="GridCell.Tab.0.right" timestamp="1589353445155">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="149" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589353445155" />
+    <state x="2251" y="129" key="new project wizard" timestamp="1589353432962">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2251" y="129" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589353432962" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589350184013">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589350184013" />
+  </component>
+</project>
